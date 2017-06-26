@@ -27,3 +27,4 @@
         System.assertEquals(true,WarehouseDataInstall.getHasData());
     }
 }
+
